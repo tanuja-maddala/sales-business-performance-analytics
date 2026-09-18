@@ -7,7 +7,6 @@ An interactive Power BI dashboard created to analyze sales and business performa
 ## Tools Used
 - Power BI
 - Excel
-- SQL (if used in this project)
 
 ## Project Objectives
 - Monitor key sales and business KPIs
@@ -15,15 +14,20 @@ An interactive Power BI dashboard created to analyze sales and business performa
 - Identify business trends
 
 ## Dashboard Preview
-Add your dashboard screenshot here.
+![Sales & Business Performance Dashboard](power-bi-dashboard.png)
 
 ## Key Insights
-- [Add actual insight from your dashboard]
-- [Add another verified insight]
+- Total sales reached 12M, with 4M in total profit and a 32.06% profit margin.
+- The North region recorded the highest total sales, followed by the South region.
+- Laptops generated the highest sales among the listed products, followed by Tablets.
+- Sales performance fluctuated across the period from January 2025 to April 2026.
 
 ## Files
 - Power BI dashboard (.pbix)
 - Dashboard screenshot
+  
+## Note
+This project is created for learning and portfolio purposes to demonstrate business analysis, data visualization, and dashboard development using Power BI.
 
 ## Author
 Tanuja Maddala
